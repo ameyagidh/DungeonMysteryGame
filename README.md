@@ -3,7 +3,7 @@
 Welcome to the Mystery Dungeon Game, an adventure-filled text-based game where you explore dungeons, collect treasures, battle monsters, and try to survive!
 
 ## Demo
-![8hp2lq](https://github.com/ameyagidh/MysteryDungeonGame/assets/65457905/41c3e3dc-c9e5-4cb4-869a-b79a382b1eaa)
+![8hp2lq](https://github.com/ameyagidh/DungeonMysteryGame/assets/65457905/e5b43517-2040-428a-8133-b6a0f4248025)
 
 ## Introduction
 
